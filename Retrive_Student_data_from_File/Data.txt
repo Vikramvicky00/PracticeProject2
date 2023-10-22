@@ -1,0 +1,11 @@
+Name:Vikram
+Age:20
+Roll no:1
+
+Name:Vicky
+Age:22
+Roll no:2
+
+Name:Vika
+Age:18
+Roll no:3

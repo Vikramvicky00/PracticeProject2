@@ -1,0 +1,7 @@
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\bin\Debug\Retrive_Student_data_from_File.exe.config
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\bin\Debug\Retrive_Student_data_from_File.exe
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\bin\Debug\Retrive_Student_data_from_File.pdb
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\obj\Debug\Retrive_Student_data_from_File.csproj.AssemblyReference.cache
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\obj\Debug\Retrive_Student_data_from_File.csproj.CoreCompileInputs.cache
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\obj\Debug\Retrive_Student_data_from_File.exe
+D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\obj\Debug\Retrive_Student_data_from_File.pdb
