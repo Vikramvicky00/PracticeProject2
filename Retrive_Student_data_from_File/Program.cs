@@ -9,7 +9,7 @@ namespace Retrive_Student_data_from_File
         {
             try
             {
-                FileStream fs = new FileStream(@"D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\WorkingWithFiles\Retrive_Student_data_from_File\Data.txt", FileMode.Open, FileAccess.Read);
+                FileStream fs = new FileStream(@"D:\Practice Exercises\.Net\Phase-1 Agile, Git, and Basics of C# Programming\PracticeProject2\Retrive_Student_data_from_File\Data.txt", FileMode.Open, FileAccess.Read);
                 StreamReader sr = new StreamReader(fs);
                 try
                 {
@@ -32,6 +32,7 @@ namespace Retrive_Student_data_from_File
             {
                 Console.WriteLine(ex.Message);
             }
+            Console.ReadLine();
         }
     }
 }
